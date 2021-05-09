@@ -16,26 +16,28 @@
   <nav>
     <div class="menu">
       <div class="logo">
-        <a href="#">RKU Consultants</a>
+        <h1>RKU Consultants</h1>
       </div>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="Frosthack.html">Home</a></li>
+        <li><a href="About.html">About</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Contact</a></li>
-        <li><a href="#">Crowd Funding</a></li>
+        <li><a href="Payment.html">Crowd Funding</a></li>
       </ul>
     </div>
   </nav>
+  <hr>
   <div class="img"></div>
   <div class="center">
     <div class="title">Find suitable work for you</div>
     <div class="sub_title">Help Doctors and Other Heroes</div>
     <div class="btns">
-      <button>Learn More</button>
+     <a href="HelpDoc.html"> <button>Learn More</button></a>
   
     </div>
   </div>
+  <hr>
   <div class="img"></div>
   <div class="center">
     <div class="title"> For mental health issuses</div>
@@ -44,6 +46,7 @@
   
     </div>
   </div>
+  <hr>
   <div class="img"></div>
   <div class="center">
     <div class="title">Be our taxi ambulance</div>
@@ -53,6 +56,7 @@
   
     </div>
   </div>
+  <hr>
   <div class="img"></div>
   <div class="center">
     <div class="title">Aware public about covid</div>
@@ -62,6 +66,7 @@
   
     </div>
   </div>
+  <hr>
 
   <div class="img"></div>
   <div class="center">
@@ -72,6 +77,7 @@
   
     </div>
   </div>
+  <hr>
   
 </body>
 </html>
